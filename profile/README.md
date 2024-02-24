@@ -53,8 +53,8 @@ Welcome to our Learning Management System (LMS) project! This system is designed
 We welcome contributions! Feel free to fork the project, make improvements, and create pull requests. If you encounter any issues or have suggestions, please open an [issue](https://github.com/gp-lms-sci-cu-24/issues). Happy learning!
 
 ## Collaborators:
-| Code          | Name          | GitHub Account     |Email                   |
-| ------------- | ------------- | ----------------------- |
+| Code          | Name          | GitHub Account     | Email                   |
+| ------------- | ------------- | ----------------------- |  ----------------------- |
 | 2027453          | Mahmoud Atef|  @Mahmoudbakar2002    | mahmoudatef.coder@gmail.com    |
 | 2027115          | Mohamed Atef |   | mohamedshata9898@gmail.com  |
 | 2027069          | Abdallah Mohamed|  | abdallah.moh.153@gmail.com|
