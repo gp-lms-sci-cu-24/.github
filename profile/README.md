@@ -55,6 +55,10 @@ We welcome contributions! Feel free to fork the project, make improvements, and 
 ## Collaborators:
 | Code          | Name          | GitHub Account     | Email                   |
 | ------------- | ------------- | ----------------------- |  ----------------------- |
-| 2027453          | Mahmoud Atef|  @Mahmoudbakar2002    | mahmoudatef.coder@gmail.com    |
-| 2027115          | Mohamed Atef |   | mohamedshata9898@gmail.com  |
-| 2027069          | Abdallah Mohamed|  | abdallah.moh.153@gmail.com|
+| 2027453          | Mahmoud Atef|  [@Mahmoudbakar2002](https://github.com/Mahmoudbakar2002)    | mahmoudatef.coder@gmail.com    |
+| 2027115          | Mohamed Atef |   [@hngara](https://github.com/hngara) | mohamedshata9898@gmail.com  |
+| 2027069          | Abdallah Mohamed| [@Abdallah85](https://github.com/Abdallah85)  | abdallah.moh.153@gmail.com |
+| 2027220          | Hazem Mohamed| [@hazemmuuhammed](https://github.com/hazemmuuhammed)  | hazemmuuhammed@gmail.com |
+| 1928275          | Ahmed Hany | [@HNOONa-0](https://github.com/HNOONa-0)  | hanyahmed11811@gmail.com |
+| 2027471          | Omar Kenawi | [@omarKenawi](https://github.com/omarKenawi)  | omar.sseeddeekk@gmail.com |
+| 1927194          | Muhammed Walied | [@Muhammed-Walied](https://github.com/Muhammed-Walied)  | mohamedwalied248@gmail.com |
