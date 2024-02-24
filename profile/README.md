@@ -1,8 +1,8 @@
 # Learning Management System (LMS) - Graduation Project
 
 <div align="center">
-  <img src="images/Cairo_University_Crest.png" alt="Image 1" width="156" height="200"/>
-  <img src="images/sci-cu.png" alt="Image 2" width="200" height="200"/>
+  <img src="./images/Cairo_University_Crest.png" alt="Image 1" width="156" height="200"/>
+  <img src="./images/sci-cu.png" alt="Image 2" width="200" height="200"/>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/CU-SCI-blue) ![GitHub License](https://img.shields.io/github/license/gp-lms-sci-cu-24/.github) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4)
