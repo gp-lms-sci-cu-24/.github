@@ -46,8 +46,8 @@ Welcome to our Learning Management System (LMS) project! This system is designed
 ## Useful Links:
 
 - [Documentation Wiki](https://github.com/gp-lms-sci-cu-24/wiki)
-- [Slack Channel](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4) - Join our Slack community for real-time discussions.
-- [Trello Board](https://trello.com/w/graduationprojectlms) - Track project progress and tasks on our Trello board.
+- [Slack Channel](https://join.slack.com/t/graduationprojectlms/shared_invite/zt-2ddps1l2p-v2ST3WOaOOvOmfIriL5VaA) - Join our Slack community for real-time discussions.
+- [Trello Board](https://trello.com/invite/graduationprojectlms/ATTI60f36808f858128dd0c880228aff1288D5A037B9) - Track project progress and tasks on our Trello board.
 - [Notion Workspace](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4) - Collaborate and access project-related documents on Notion.
 
 We welcome contributions! Feel free to fork the project, make improvements, and create pull requests. If you encounter any issues or have suggestions, please open an [issue](https://github.com/gp-lms-sci-cu-24/issues). Happy learning!
