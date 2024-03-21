@@ -45,7 +45,7 @@ Welcome to our Learning Management System (LMS) project! This system is designed
 
 ## Useful Links:
 
--  [DOCS](../docs/)
+- [DOCS](../main/docs/)
 - [Documentation Wiki](https://github.com/gp-lms-sci-cu-24/wiki)
 - [Slack Channel](https://join.slack.com/t/graduationprojectlms/shared_invite/zt-2ddps1l2p-v2ST3WOaOOvOmfIriL5VaA) - Join our Slack community for real-time discussions.
 - [Trello Board](https://trello.com/invite/graduationprojectlms/ATTI60f36808f858128dd0c880228aff1288D5A037B9) - Track project progress and tasks on our Trello board.
