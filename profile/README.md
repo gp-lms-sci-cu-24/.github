@@ -1,8 +1,8 @@
 # Learning Management System (LMS) - Graduation Project
 
 <div align="center">
-  <img src="./images/Cairo_University_Crest.png" alt="Image 1" width="156" height="200"/>
-  <img src="./images/sci-cu.png" alt="Image 2" width="200" height="200"/>
+  <img src="profile/images/Cairo_University_Crest.png" alt="Image 1" width="156" height="200"/>
+  <img src="profile/images/sci-cu.png" alt="Image 2" width="200" height="200"/>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/CU-SCI-blue) ![GitHub License](https://img.shields.io/github/license/gp-lms-sci-cu-24/.github) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4)
@@ -46,15 +46,19 @@ Welcome to our Learning Management System (LMS) project! This system is designed
 ## Useful Links:
 
 - [Documentation Wiki](https://github.com/gp-lms-sci-cu-24/wiki)
-- [Slack Channel](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4) - Join our Slack community for real-time discussions.
-- [Trello Board](https://trello.com/w/graduationprojectlms) - Track project progress and tasks on our Trello board.
+- [Slack Channel](https://join.slack.com/t/graduationprojectlms/shared_invite/zt-2ddps1l2p-v2ST3WOaOOvOmfIriL5VaA) - Join our Slack community for real-time discussions.
+- [Trello Board](https://trello.com/invite/graduationprojectlms/ATTI60f36808f858128dd0c880228aff1288D5A037B9) - Track project progress and tasks on our Trello board.
 - [Notion Workspace](https://www.notion.so/Graduation-Project-cf2b59c49c5447829e59cc5e111964ac?pvs=4) - Collaborate and access project-related documents on Notion.
 
 We welcome contributions! Feel free to fork the project, make improvements, and create pull requests. If you encounter any issues or have suggestions, please open an [issue](https://github.com/gp-lms-sci-cu-24/issues). Happy learning!
 
-## Collebrators:
-| Code          | Name          | Email                   |
-| ------------- | ------------- | ----------------------- |
-| 2027453          | Mahmoud Atef      | mahmoudatef.coder@gmail.com    |
-| 2027115          | Mohamed Atef    | mohamedshata9898@gmail.com  |
-| 2027069          | Abdallah Mohamed  | abdallah.moh.153@gmail.com|
+## Collaborators:
+| Code          | Name          | GitHub Account     | Email                   |
+| ------------- | ------------- | ----------------------- |  ----------------------- |
+| 2027453          | Mahmoud Atef|  [@Mahmoudbakar2002](https://github.com/Mahmoudbakar2002)    | mahmoudatef.coder@gmail.com    |
+| 2027115          | Mohamed Atef |   [@hngara](https://github.com/hngara) | mohamedshata9898@gmail.com  |
+| 2027069          | Abdallah Mohamed| [@Abdallah85](https://github.com/Abdallah85)  | abdallah.moh.153@gmail.com |
+| 2027220          | Hazem Mohamed| [@hazemmuuhammed](https://github.com/hazemmuuhammed)  | hazemmuuhammed@gmail.com |
+| 1928275          | Ahmed Hany | [@HNOONa-0](https://github.com/HNOONa-0)  | hanyahmed11811@gmail.com |
+| 2027471          | Omar Kenawi | [@omarKenawi](https://github.com/omarKenawi)  | omar.sseeddeekk@gmail.com |
+| 1927194          | Muhammed Walied | [@Muhammed-Walied](https://github.com/Muhammed-Walied)  | mohamedwalied248@gmail.com |
